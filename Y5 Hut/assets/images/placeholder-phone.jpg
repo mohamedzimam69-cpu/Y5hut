@@ -1,0 +1,8 @@
+# Mobile Phone Placeholder Image
+# This file serves as a fallback when product images are not available
+# Replace this with an actual placeholder image (400x400px)
+# 
+# To add a real placeholder image:
+# 1. Create a 400x400px image with "No Image Available" text
+# 2. Save it as placeholder-phone.jpg
+# 3. Replace this text file with the actual image
